@@ -1,0 +1,19 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+tr {
+    height: 50px;
+}
+.prime {
+    background-color: pink;
+}
+h1{
+    text-align: center;
+}
