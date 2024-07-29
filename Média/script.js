@@ -5,9 +5,7 @@ function media() {
     let num3 = document.getElementById("num3").value;
 
     let media1 = num1 + num2 + num3;
-    let Media = media1/3;
+    let media2 = media1/3;
 
-    document.getElementById("ResultMedia").innerHTML = Media;
+    document.getElementById("ResultMedia").innerHTML = media2;
 }
-  
-
