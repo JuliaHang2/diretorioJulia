@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    margin-top: 3%;
+}
+p{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 25px;
+}
+input{
+    margin-left: 45%;
+    width: 175px;
+    height:30px;
+    border-radius: 4px;
+}
+.botao{
+    width: 100px;
+    height: 40px;
+    margin-left: 47.5%;
+    background-color: MediumTurquoise;
+    border-radius: 7px;
+}
