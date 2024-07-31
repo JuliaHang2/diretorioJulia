@@ -9,13 +9,9 @@ function delta() {
     const resolucao = `
 
     Δ = b² - 4ac<br>
-
     Δ = ${num2}² - 4 * ${num1} * ${num3}<br>
-
     Δ = ${num2 * num2} - ${4 * num1} * ${num3}<br>
-
     Δ = ${num2 * num2} - (${4 * num1 * num3})<br>
-
     Δ = ${Delta}
 
             `;
